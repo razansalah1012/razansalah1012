@@ -1,7 +1,8 @@
 
-<div align="center">
 
-<img width="736" height="414" alt="It’s still me_ It’s still ME_" src="https://github.com/user-attachments/assets/2bee5a5e-f2f7-466c-a413-6b9420529844" />
+<div align="center">
+<img width="1000" height="300" alt="It’s still me_ It’s still ME_" src="https://github.com/user-attachments/assets/c6fe5ff8-c953-4a5d-a769-f96706f68282" />
+
 
 # ˚₊‧꒰ა welcome to my little corner of github ໒꒱ ‧₊˚
 
