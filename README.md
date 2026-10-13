@@ -15,15 +15,21 @@
 
 ---
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img
+  align="right"
+  src="https://github.com/user-attachments/assets/2459b77f-8f47-4b18-9799-654255cc9e7e"
+  width="35%"
+  alt="Cat with headphones"
+/>
+
 
 ### 🌷 who am i?
 
 I'm a Software Engineering undergraduate who loves turning ideas into applications people can actually use. I enjoy building full-stack web and mobile projects, learning new technologies, and finding creative ways to solve real problems.
-I care about both **how software works** and **how it feels to use** from backend logic and databases to accessible, thoughtful interfaces.
-and if you want to know me deeper, I'm just programming larper :}
+
+I care about both **how software works** and **how it feels to use**, from backend logic and databases to accessible, thoughtful interfaces.
+
+And if you want to know me deeper, I'm just a programming larper :}
 
 ### ✨ currently exploring
 
@@ -33,15 +39,8 @@ and if you want to know me deeper, I'm just programming larper :}
 - Experimenting with **AI, data science, and cybersecurity**
 - Practicing **Docker, Linux, testing, and CI/CD** workflows
 
-</td>
-<td width="38%" align="center" valign="middle">
+<br clear="all" />
 
-<img width="720" height="720" alt="🐱🎀" src="https://github.com/user-attachments/assets/1197d1d3-f255-4ad9-af7c-315badad82a1" />
-
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -57,7 +56,7 @@ and if you want to know me deeper, I'm just programming larper :}
 
 ---
 
-## 🍓 skill set
+## skill set
 
 <div align="center">
 
@@ -90,25 +89,12 @@ and if you want to know me deeper, I'm just programming larper :}
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
-
----
-
-## 🕹️ github activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=razansalah1012&show_icons=true&theme=dracula&hide_border=true&bg_color=161321&title_color=ffb7d5&icon_color=dca8ff&text_color=f7e9ff" alt="GitHub stats" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razansalah1012&layout=compact&theme=dracula&hide_border=true&bg_color=161321&title_color=ffb7d5&text_color=f7e9ff" alt="Most used repository languages" height="165" />
-
-
-</div>
-
 ---
 
 <div align="center">
 
-### let's connect!
+### let's connect! 
+[![Email](https://img.shields.io/badge/Email-Me-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razansalah666@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-razansalah1012-161321?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razansalah1012)
 
 **thanks for visiting my little corner of the internet!** 🌸
