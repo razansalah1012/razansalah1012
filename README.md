@@ -5,10 +5,29 @@
 
 I'm a Software Engineering undergraduate at Universiti Teknologi Malaysia (UTM), passionate about building meaningful software solutions.
 
-I enjoy exploring full-stack development, mobile applications, cybersecurity, and emerging technologies.
+I enjoy exploring full-stack development, mobile applications, and emerging technologies.
 
-I believe the best way to grow as a developer is by continuously learning, experimenting, and building real-world projects.
+And if you want to know me deeper, I'm programming larper and cat lover :D
+<table>
+<tr>
+<td width="55%" valign="top">
 
+### About Me
+Software Engineering student passionate about building applications.
+
+### Current Goals
+- Full-stack development
+- Cybersecurity
+- AI and Data Science
+
+</td>
+<td width="45%">
+
+<img src="assets/cozy.gif" width="100%" alt="Cozy illustration">
+
+</td>
+</tr>
+</table>
 ---
 
 ### 🎯 Current Goals
@@ -72,8 +91,7 @@ Event and club management mobile application built with Flutter and Firebase.
 
 ### 📫 Connect With Me
 
-- GitHub: [@razansalah1012](https://github.com/razansalah1012)
-
+- Email: razansalah666@gmail.com
 ---
 
 ✨ Always learning, always building.
