@@ -1,98 +1,78 @@
-
-# Hey there! Welcome to my corner of GitHub ✨
-
-### 👩‍💻 About Me
-
-I'm a Software Engineering undergraduate at Universiti Teknologi Malaysia (UTM), passionate about building meaningful software solutions.
-
-I enjoy exploring full-stack development, mobile applications, and emerging technologies.
-
-And if you want to know me deeper, I'm programming larper and cat lover :D
+<div align="center">
+<img width="720" height="720" alt="🐱🎀" src="https://github.com/user-attachments/assets/371eb1ef-b6c4-4a51-a6b6-3808529e751a" />
+˚₊‧꒰ა welcome to my little corner of github ໒꒱ ‧₊˚
+hi, i'm razan! 🎀
+Software Engineering Student @ Universiti Teknologi Malaysia  
+Full-Stack Development · Mobile Apps · Cybersecurity · AI Exploration
+![Profile Views](https://komarev.com/ghpvc/?username=razansalah1012&color=dda0dd&style=flat-square&label=visitors)
+</div>
+---
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### About Me
-Software Engineering student passionate about building applications.
-
-### Current Goals
-- Full-stack development
-- Cybersecurity
-- AI and Data Science
-
+<td width="62%" valign="top">
+🌷 who am i?
+I'm a Software Engineering undergraduate who loves turning ideas into applications people can actually use. I enjoy building full-stack web and mobile projects, learning new technologies, and finding creative ways to solve real problems.
+I care about both how software works and how it feels to use — from backend logic and databases to accessible, thoughtful interfaces.
+✨ currently exploring
+Building and documenting polished full-stack web applications
+Improving React, Next.js, Node.js, and Express.js skills
+Learning more about application security and secure coding
+Experimenting with AI, data science, and cybersecurity
+Practicing Docker, Linux, testing, and CI/CD workflows
+💌 a little reminder
+> build with curiosity, learn with patience, and keep creating ♡
 </td>
-<td width="45%">
-
-<img src="assets/cozy.gif" width="100%" alt="Cozy illustration">
-
+<td width="38%" align="center" valign="middle">
+</div><img width="736" height="245" alt="download (12)" src="https://github.com/user-attachments/assets/d6bd35af-7a7d-4f52-921f-4bd3e095e97c" />
+me, debugging at 2 am probably ♡
 </td>
 </tr>
 </table>
 ---
-
-### 🎯 Current Goals
-
-- Building full-stack applications using React, Next.js, Node.js, and Express.js.
-- Improving my skills in application security and secure coding.
-- Exploring AI, data science, and cybersecurity.
-- Learning more about Docker, CI/CD, and cloud deployment.
-- Strengthening software testing and clean code practices.
-
+🧁 what i've built
+Project	What it does	Stack
+🧠 MentraHub	Mental health support and counseling platform	Java, Spring MVC, MySQL
+💼 elevateU	Recruitment platform for job seekers and employers	PHP, MySQL, JavaScript, Bootstrap
+📅 KTREvent	Event, club, and equipment management app	Flutter, Dart, Firebase
+🌿 HealthHub UTM	Fitness and wellness management system	Java, Spring MVC, Hibernate
+🤖 RoboLearn	Robotics learning project	Flutter, Firebase (project-reported)
 ---
-
-### 💻 Current Tech Stack
-
-**Languages**
-
+🍓 skill set
+<div align="center">
+languages & web
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-**Backend & Databases**
-
+frameworks & tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+databases & dev tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+</div>
 ---
-
-### 🚀 Featured Projects
-
-**[MentraHub](https://github.com/razansalah1012/MentraHub)**  
-Mental health support platform built using Java, Spring MVC, and MySQL.
-
-**[elevateU](https://github.com/razansalah1012/elevateU)**  
-Full-stack recruitment platform connecting job seekers and employers.
-
-**[KTREvent](https://github.com/razansalah1012/KTREvent--Group-05)**  
-Event and club management mobile application built with Flutter and Firebase.
-
+🕹️ github activity
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=razansalah1012&show_icons=true&theme=dracula&hide_border=true&bg_color=161321&title_color=ffb7d5&icon_color=dca8ff&text_color=f7e9ff" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razansalah1012&layout=compact&theme=dracula&hide_border=true&bg_color=161321&title_color=ffb7d5&text_color=f7e9ff" alt="Most used repository languages" height="165" />
+Stats are generated by a third-party service and may occasionally be unavailable.
+</div>
 ---
+<div align="center">
+💗 let's connect
+![GitHub](https://img.shields.io/badge/GitHub-razansalah1012-161321?style=for-the-badge&logo=github&logoColor=white)
+thanks for visiting my little corner of the internet! 🌸
 
-### 📫 Connect With Me
-
-- Email: razansalah666@gmail.com
----
-
-✨ Always learning, always building.
 
