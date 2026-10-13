@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="736" height="245" alt="download (12)" src="https://github.com/user-attachments/assets/38ee8506-bfe8-4f92-9e04-d30d1592adc5" />
+<img width="736" height="414" alt="It’s still me_ It’s still ME_" src="https://github.com/user-attachments/assets/2bee5a5e-f2f7-466c-a413-6b9420529844" />
 
 # ˚₊‧꒰ა welcome to my little corner of github ໒꒱ ‧₊˚
 
@@ -42,19 +42,6 @@ And if you want to know me deeper, I'm just a programming larper :}
 <br clear="all" />
 
 
----
-
-## 🧁 what i've built
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| 🧠 **[MentraHub](https://github.com/razansalah1012/MentraHub)** | Mental health support and counseling platform | Java, Spring MVC, MySQL |
-| 💼 **[elevateU](https://github.com/razansalah1012/elevateU)** | Recruitment platform for job seekers and employers | PHP, MySQL, JavaScript, Bootstrap |
-| 📅 **[KTREvent](https://github.com/razansalah1012/KTREvent--Group-05)** | Event, club, and equipment management app | Flutter, Dart, Firebase |
-| 🌿 **[HealthHub UTM](https://github.com/razansalah1012/HealthHub-UTM)** | Fitness and wellness management system | Java, Spring MVC, Hibernate |
-| 🤖 **[RoboLearn](https://github.com/razansalah1012/RoboLearn)** | Robotics learning project | Flutter, Firebase (project-reported) |
-
----
 
 ## skill set
 
@@ -88,8 +75,8 @@ And if you want to know me deeper, I'm just a programming larper :}
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
----
+
+
 
 <div align="center">
 
@@ -97,7 +84,7 @@ And if you want to know me deeper, I'm just a programming larper :}
 [![Email](https://img.shields.io/badge/Email-Me-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:razansalah666@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-razansalah1012-161321?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razansalah1012)
 
-**thanks for visiting my little corner of the internet!** 🌸
+**thanks for visiting my little corner of the internet!** 
 
 </div>
 
